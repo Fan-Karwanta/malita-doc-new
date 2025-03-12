@@ -13,7 +13,7 @@ const Contact = () => {
         <img className='w-full md:max-w-[360px]' src={assets.contact_image} alt="" />
         <div className='flex flex-col justify-center items-start gap-6'>
           <p className=' font-semibold text-lg text-gray-600'>OUR OFFICE</p>
-          <p className=' text-gray-500'>Poblacion, <br />  General Santos City</p>
+          <p className=' text-gray-500'>Poblacion, <br />  Malita, Davao Occidental</p>
           <p className=' text-gray-500'>Tel: 0927-171-199-48 <br /> Email: malita_doc@gmail.com</p>
           <p className=' font-semibold text-lg text-gray-600'>Learn More About Us</p>
           <p className=' text-gray-500'>Learn more about Malita Doc and it's development.</p>

@@ -112,9 +112,9 @@ const Terms = () => {
             For questions or concerns about these terms, please contact us at:
           </p>
           <ul className="list-none mb-3">
-            <li>Email: support@clinicamanila.com</li>
+            <li>Email: support@malitadoc.com</li>
             <li>Phone: 09123456789</li>
-            <li>Address: General Santos City</li>
+            <li>Address: Malita, Davao Occidental</li>
           </ul>
         </section>
 
